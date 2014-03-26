@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Signup::Application.config.secret_key_base = '5e94e7441e328110f1cc3c47c2ccada03220ec7e369dc4db34558f63ffb6beedd867150ea9a6062bc7d5df7d529e718b8bef72079834fd502a06b613b8a5aa39'
+Signup::Application.config.secret_key_base = 'a44ed0524896bf91049d3020f89a4f1c1efa57bdaed3b5bbacb3a8586cb673a57aa0d774f54252e4d08906844f3d47eb5f9b36b70c9dc1e8a91a7c2eadb02113'
